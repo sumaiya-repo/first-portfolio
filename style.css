@@ -1,0 +1,153 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+/* .header {
+    background-image: url(bari.jpg);
+    background-position: center;
+    background-size: 100%;
+    position: relative;
+    min-height: 100vh;
+    min-width: 100vh;
+
+
+} */
+
+
+.btn {
+    float: right;
+}
+
+.child_div ul {
+    float: right;
+}
+
+.child_div ul li {
+    list-style: none;
+    display: inline-block;
+    margin: 0px 12px;
+    position: relative;
+
+}
+
+.child_div ul li a {
+    text-decoration: none;
+    color: #f1f2f6;
+    padding: 25px 25px;
+    font-size: 20px;
+    top: 5px;
+    margin: auto;
+
+
+}
+
+h4 span {
+    color: #ff5e57;
+    font-size: 30px;
+
+
+}
+
+h4 {
+    color: aliceblue;
+    font-size: 20px;
+    padding: 2px 0px;
+    float: left;
+
+
+
+}
+
+.btn {
+    float: right;
+    font-size: 15px;
+    background-color: rgb(0, 145, 255);
+    color: white;
+    padding: 5px;
+}
+
+nav {
+    display: flex;
+    padding: 2% 5%;
+    justify-content: space-between;
+    align-items: center;
+
+}
+
+.child_div ul li a:hover {
+    background-color: #ffffff;
+    color: black;
+
+
+
+}
+
+.beauty {
+    flex: 3;
+    width: 120%;
+    height: 100%;
+}
+
+
+.header {
+    background-image: url(xn.jpg);
+    background-position: center;
+    background-size: 100%;
+    position: relative;
+    min-height: 100vh;
+    min-width: 100vh;
+    scrollbar-width: none;
+
+
+}
+
+.info {
+    margin-left: 5%;
+    margin-top: 12%;
+
+    h3 {
+        color: black;
+
+        font-family: 'Monsieur La Doulaise', cursive;
+        font-size: 25px;
+    }
+
+    h2 {
+        color: black;
+        font-family: 'Aladin', system-ui;
+
+    }
+
+    .short {
+        color: black;
+        font-family: 'Eater', serif;
+
+    }
+}
+
+.image {
+    position: absolute;
+    top: 0;
+    height: 200px;
+    width: 100px;
+    margin-left: 60%;
+    margin-top: 7%;
+}
+
+.mini {
+    position: absolute;
+    top: 20px;
+    height: 500px;
+    width: 600px;
+    margin-right: 100%;
+    margin-top: 60px;
+    color: black;
+}
+
+.gril {
+    position: relative;
+    ;
+}
